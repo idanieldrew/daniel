@@ -1,4 +1,4 @@
-# Hi👋, I'm Daniel ⚜️
+# Hi👋, I'm Daniel 
 I'm a Simple developer
 
 ### Languages And Technologies I Use
