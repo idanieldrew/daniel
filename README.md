@@ -7,6 +7,7 @@ I'm a Simple developer
 ### Languages And Technologies I Use
 ```js
 FrontEnd: [
+    TailwindCss
     JavaScript,
     VueJs,
     NuxtJs,
