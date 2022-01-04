@@ -1,5 +1,4 @@
 # Hi👋, I'm Daniel 
-I'm a Simple developer
 
 main.go 
 ```go
