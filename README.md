@@ -6,7 +6,7 @@ package main
     import "fmt"
     
     func main() {
-	    fmt.Println("Maybe a simple developer.")
+	    fmt.Println("Maybe a simple developer")
     }
 ```
 
